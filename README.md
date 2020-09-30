@@ -1,0 +1,1 @@
+For this, I will be creating a method that takes an array and turns it into a balanced binary tree. Then I will create various methods that will perform different actions on the tree.
